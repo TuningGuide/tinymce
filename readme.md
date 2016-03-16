@@ -1,3 +1,5 @@
+This fork has been build in order to allow class and id names in path again.
+
 TinyMCE - The JavaScript Rich Text editor
 ==========================================
 
